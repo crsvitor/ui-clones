@@ -9,7 +9,7 @@ As written into repository's description, this repository is focused in creating
 
 In each folder there is an application, such as:
 
-- Vercel - Shade Transition (homepage feature)
+- Vercel (homepage) Website
 
 In case you want fork or download, keep in mind to use the commands:
 
@@ -18,5 +18,7 @@ In case you want fork or download, keep in mind to use the commands:
 
 Technologies already used:
 
+- HTML
+- CSS/SCSS
 - JavaScript/TypeScript
 - React
