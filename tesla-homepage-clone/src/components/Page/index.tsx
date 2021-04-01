@@ -14,7 +14,7 @@ function Page() {
           {[
             'Model one',
             'Model two',
-            'Model thre',
+            'Model three',
             'Model four',
             'Model five',
             'Model six',
