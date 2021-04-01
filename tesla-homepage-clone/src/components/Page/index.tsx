@@ -2,8 +2,9 @@ import React from 'react';
 
 import { ModelsWrapper, ModelSection } from '../Model';
 import DefaultOverlayContent from '../DefaultOverlayContent';
+import UniqueOverlay from '../UniqueOverlay';
 
-import { Container } from './styles';
+import { Container, Spacer } from './styles';
 
 function Page() {
   return (
@@ -32,6 +33,10 @@ function Page() {
             />
           ))}
         </div>
+
+        <Spacer />
+
+        <UniqueOverlay />
       </ModelsWrapper>
     </Container>
   );
