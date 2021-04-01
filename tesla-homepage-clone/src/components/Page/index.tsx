@@ -12,12 +12,12 @@ function Page() {
         <div>
           {[
             'Model one',
-            'Model two',
-            'Model thre',
-            'Model four',
-            'Model five',
-            'Model six',
-            'Model seven',
+            // 'Model two',
+            // 'Model thre',
+            // 'Model four',
+            // 'Model five',
+            // 'Model six',
+            // 'Model seven',
           ].map(modelName => (
             <ModelSection
               key={modelName} 
