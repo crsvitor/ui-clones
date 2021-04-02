@@ -6,6 +6,7 @@ As written into repository's description, this repository is focused in creating
 In each folder there is an application, such as:
 
 - Vercel (homepage) Website
+- Tesla (homepage) Website
 
 In case you want fork or download, keep in mind to use the commands:
 
